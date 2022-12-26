@@ -1,8 +1,9 @@
 # MH Data SYNC #
 ## Project Description ##
-    The client would like to develop an independent application Message Bus in order to automate the process of syncing data between 
-    users belongs to various vertical. It follows the BFF pattern. BFF can provide a client-specific backend mediator and act as a 
-    proxy that forwards and merges multiple requests to different service APIs.
+    The client would like to develop an independent application Message Bus in order to automate the process of 
+    syncing data between users belongs to various vertical. It follows the BFF pattern. BFF can provide a 
+    client-specific backend mediator and act as a proxy that forwards and merges multiple requests to different 
+    service APIs.
 ## Enivronment
 * Visual Studio 2022
   * .Net 6 web Api
