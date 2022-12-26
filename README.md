@@ -42,7 +42,5 @@ Running Method
 
 * Apache Zookeeeper and Kafka server
 * Then Dotnet Application
-  *MHSync
-  *
-* Angular application
+* and Angular application
 
