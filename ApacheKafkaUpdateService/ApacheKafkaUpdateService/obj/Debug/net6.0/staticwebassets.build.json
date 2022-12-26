@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gdAkrFk3u5PBWXiio/02Mjy36Oxx+abawL472z/g6Zo=",
+  "Source": "ApacheKafkaUpdateService",
+  "BasePath": "_content/ApacheKafkaUpdateService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

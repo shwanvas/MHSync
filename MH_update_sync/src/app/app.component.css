@@ -1,0 +1,4 @@
+.mat-mdc-unelevated-button.mat-accent {
+    --mdc-filled-button-container-color: #ffd740;
+    --mdc-filled-button-label-text-color: #fff;
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "91Q1u8KU1kyTInmgH1ht3vpyYPNzRalcQQOqSy4kQfw=",
+  "Source": "MHUpdateSync",
+  "BasePath": "_content/MHUpdateSync",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
