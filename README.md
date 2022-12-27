@@ -39,9 +39,9 @@ For each Angular application run using
     
     ng serve -o
     
-Running Method
+step to initiate
 
-* Apache Zookeeeper and Kafka server
+* Run Apache Zookeeeper and Kafka server
 * Then Dotnet Application
 * and Angular application
 
