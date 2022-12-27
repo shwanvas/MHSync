@@ -49,6 +49,7 @@
           ></mat-datepicker-toggle>
           <mat-datepicker #picker></mat-datepicker>
         </mat-form-field>
+	
         <mat-form-field class="form-input" *ngSwitchDefault>
           <input
             matInput
@@ -60,6 +61,7 @@
             (change)="inputHandler($event, element.id, col.key)"
           />
         </mat-form-field>
+	
       </div>
     </td>
   </ng-container>
